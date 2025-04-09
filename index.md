@@ -9,15 +9,39 @@ This project simulates a secure home network using Cisco Packet Tracer. The goal
 
 
 
-### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+
+### How I built the home network lab
+
+1. Added Network Devices
+
+<li> Placed a wireless router, cable modem, PC, laptop, and a server (labeled cisco.srv) onto the workspace.
+
+2. Connected Devices with Cables
+
+<li> Used appropriate cables (copper straight-through or wireless connections) to connect:
+
+<li> PC and Laptop to the Wireless Router
+
+<li> Wireless Router to Cable Modem
+
+<li> Cable Modem to the Server (via simulated Internet)
+
+3. Configured IP Addresses
+
+<li> Assigned static or dynamic IP addresses to the PC, Laptop, and Server depending on the network design.
+
+4. Enabled Wireless Connectivity
+
+<li> Set up SSID and password on the Wireless Router.
+
+<li> Configured the Laptop to connect via Wi-Fi.
+
+5. Verified Connectivity
+
+<li> Used the Simulation Mode or ping command to test communication between devices and ensure internet access.
+
+
 
 ```ruby
 # Ruby code with syntax highlighting
