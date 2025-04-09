@@ -34,15 +34,15 @@ This project simulates a secure home network using Cisco Packet Tracer. The goal
  <li>Assigned static or dynamic IP addresses to the PC, Laptop, and Server depending on the network design.</li>
 </ul>
 4. Enabled Wireless Connectivity
+<ul>
+ <li>Set up SSID and password on the Wireless Router.</li>
 
- Set up SSID and password on the Wireless Router.
-
- Configured the Laptop to connect via Wi-Fi.
-
+<li>Configured the Laptop to connect via Wi-Fi.</li>
+</ul>
 5. Verified Connectivity
-
-Used the Simulation Mode or ping command to test communication between devices and ensure internet access.
-
+<ul>
+ <li>Used the Simulation Mode or ping command to test communication between devices and ensure internet access.</li>
+</ul>
 
 
 
