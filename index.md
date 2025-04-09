@@ -14,32 +14,32 @@ This project simulates a secure home network using Cisco Packet Tracer. The goal
 ### How I built the home network lab
 
 1. Added Network Devices
-
-<ul> Placed a wireless router, cable modem, PC, laptop, and a server (labeled cisco.srv) onto the workspace.
-
+<ul>
+ <li>Placed a wireless router, cable modem, PC, laptop, and a server (labeled cisco.srv) onto the workspace.</li>
+</ul>
 2. Connected Devices with Cables
 
-<ul> Used appropriate cables (copper straight-through or wireless connections) to connect:
+ Used appropriate cables (copper straight-through or wireless connections) to connect:
 
-<ul> PC and Laptop to the Wireless Router
+ PC and Laptop to the Wireless Router
 
-<ul> Wireless Router to Cable Modem
+ Wireless Router to Cable Modem
 
-<ul> Cable Modem to the Server (via simulated Internet)
+ Cable Modem to the Server (via simulated Internet)
 
 3. Configured IP Addresses
 
-<ul> Assigned static or dynamic IP addresses to the PC, Laptop, and Server depending on the network design.
+ Assigned static or dynamic IP addresses to the PC, Laptop, and Server depending on the network design.
 
 4. Enabled Wireless Connectivity
 
-<ul> Set up SSID and password on the Wireless Router.
+ Set up SSID and password on the Wireless Router.
 
-<ul> Configured the Laptop to connect via Wi-Fi.
+ Configured the Laptop to connect via Wi-Fi.
 
 5. Verified Connectivity
 
-<ul> Used the Simulation Mode or ping command to test communication between devices and ensure internet access.
+Used the Simulation Mode or ping command to test communication between devices and ensure internet access.
 
 
 
