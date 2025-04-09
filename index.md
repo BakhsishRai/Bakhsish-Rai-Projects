@@ -13,36 +13,36 @@ This project simulates a secure home network using Cisco Packet Tracer. The goal
 
 ### How I built the Home Network Lab
 
-1. Added Network Devices
-<ul>
- <li>Placed a wireless router, cable modem, PC, laptop, and a server (labeled cisco.srv) onto the workspace.</li>
-</ul>
-
-2. Connected Devices with Cables
-
- Used appropriate cables (copper straight-through or wireless connections) to connect:
-<ul>
-<li>PC and Laptop to the Wireless Router</li>
-
-<li>Wireless Router to Cable Modem</li>
-
- <li>Cable Modem to the Server (via simulated Internet)</li>
- </ul>
-
-3. Configured IP Addresses
-<ul>
- <li>Assigned static or dynamic IP addresses to the PC, Laptop, and Server depending on the network design.</li>
-</ul>
-4. Enabled Wireless Connectivity
-<ul>
- <li>Set up SSID and password on the Wireless Router.</li>
-
-<li>Configured the Laptop to connect via Wi-Fi.</li>
-</ul>
-5. Verified Connectivity
-<ul>
- <li>Used the Simulation Mode or ping command to test communication between devices and ensure internet access.</li>
-</ul>
+<ol>
+  <li>Added Network Devices
+    <ul>
+      <li>Placed a wireless router, cable modem, PC, laptop, and a server (labeled cisco.srv) onto the workspace.</li>
+    </ul>
+  </li>
+  <li>Connected Devices with Cables
+    <ul>
+      <li>PC and Laptop to the Wireless Router</li>
+      <li>Wireless Router to Cable Modem</li>
+      <li>Cable Modem to the Server (via simulated Internet)</li>
+    </ul>
+  </li>
+  <li>Configured IP Addresses
+    <ul>
+      <li>Assigned static or dynamic IP addresses to the PC, Laptop, and Server depending on the network design.</li>
+    </ul>
+  </li>
+  <li>Enabled Wireless Connectivity
+    <ul>
+      <li>Set up SSID and password on the Wireless Router.</li>
+      <li>Configured the Laptop to connect via Wi-Fi.</li>
+    </ul>
+  </li>
+  <li>Verified Connectivity
+    <ul>
+      <li>Used the Simulation Mode or ping command to test communication between devices and ensure internet access.</li>
+    </ul>
+  </li>
+</ol>
 
 
 
