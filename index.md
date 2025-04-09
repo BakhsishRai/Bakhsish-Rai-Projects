@@ -22,9 +22,9 @@ This project simulates a secure home network using Cisco Packet Tracer. The goal
 <ul>
  <li>Used appropriate cables (copper straight-through or wireless connections) to connect:</li>
 
-<li> PC and Laptop to the Wireless Router</li>
+<li>PC and Laptop to the Wireless Router</li>
 
-<li> Wireless Router to Cable Modem</li>
+<li>Wireless Router to Cable Modem</li>
 
  <li>Cable Modem to the Server (via simulated Internet)</li>
  </ul>
