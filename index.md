@@ -15,40 +15,35 @@ This project simulates a secure home network using Cisco Packet Tracer. The goal
 
 1. Added Network Devices
 
-<li> Placed a wireless router, cable modem, PC, laptop, and a server (labeled cisco.srv) onto the workspace.
+<ul> Placed a wireless router, cable modem, PC, laptop, and a server (labeled cisco.srv) onto the workspace.
 
 2. Connected Devices with Cables
 
-<li> Used appropriate cables (copper straight-through or wireless connections) to connect:
+<ul> Used appropriate cables (copper straight-through or wireless connections) to connect:
 
-<li> PC and Laptop to the Wireless Router
+<ul> PC and Laptop to the Wireless Router
 
-<li> Wireless Router to Cable Modem
+<ul> Wireless Router to Cable Modem
 
-<li> Cable Modem to the Server (via simulated Internet)
+<ul> Cable Modem to the Server (via simulated Internet)
 
 3. Configured IP Addresses
 
-<li> Assigned static or dynamic IP addresses to the PC, Laptop, and Server depending on the network design.
+<ul> Assigned static or dynamic IP addresses to the PC, Laptop, and Server depending on the network design.
 
 4. Enabled Wireless Connectivity
 
-<li> Set up SSID and password on the Wireless Router.
+<ul> Set up SSID and password on the Wireless Router.
 
-<li> Configured the Laptop to connect via Wi-Fi.
+<ul> Configured the Laptop to connect via Wi-Fi.
 
 5. Verified Connectivity
 
-<li> Used the Simulation Mode or ping command to test communication between devices and ensure internet access.
+<ul> Used the Simulation Mode or ping command to test communication between devices and ensure internet access.
 
 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+
 
 #### Header 4
 
