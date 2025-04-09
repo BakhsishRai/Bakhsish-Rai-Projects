@@ -17,6 +17,7 @@ This project simulates a secure home network using Cisco Packet Tracer. The goal
 <ul>
  <li>Placed a wireless router, cable modem, PC, laptop, and a server (labeled cisco.srv) onto the workspace.</li>
 </ul>
+
 2. Connected Devices with Cables
 
  Used appropriate cables (copper straight-through or wireless connections) to connect:
