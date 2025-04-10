@@ -4,8 +4,9 @@ layout: default
 # Building a Home Network
 This project simulates a secure home network using Cisco Packet Tracer. The goal is to design, configure, and secure a typical home network environment.
 
-![Branching](Screenshot_249.png)
-
+<a href="Screenshot_249.png" target="_blank">
+  <img src="Screenshot_249.png" alt="Branching" width="600"/>
+</a>
 
 
 
