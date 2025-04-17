@@ -50,8 +50,8 @@ This project simulates a secure home network using Cisco Packet Tracer. The goal
 
 
 
-# Home SOC Lab
-I created a Home SOC Lab using Microsoft 
+# Home SOC in Azure
+I created a Home SOC Lab using Microsoft Azure. I created a virtual machine (VM), opened it to the internet as a honeypot, and forwarded logs to a central repository. Then integrated Microsoft Sentinel to analyze real-world attack data. 
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
